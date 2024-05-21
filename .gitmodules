@@ -1,0 +1,3 @@
+[submodule "subprojects/Toof"]
+	path = subprojects/Toof
+	url = git@github.com:Stronkkey/Toof.git
